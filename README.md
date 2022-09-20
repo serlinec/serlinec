@@ -14,9 +14,11 @@
     
     :sparkles: My research interests emcompass these fields: Cognitive Neuroscience; Developmental Psychology.<br>
     
-    :briefcase: LinkedIn: https://www.linkedin.com/in/serline/ <br>
-    🐦 Twitter: @Lin_Coelho <br>
-    🐰 Fun fact: I'm left-handed! <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/serline/ 
+    
+    🐦 Twitter: @Lin_Coelho
+    
+    🐰 Fun fact: I'm left-handed!
 
   
   </samp>
