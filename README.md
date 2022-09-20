@@ -9,12 +9,12 @@
   <br>
   <samp>
     Hello, I'm Serline! 👋<br>
-    I'm a senior Psychology senior at The University of Texas at Austin.
+   
 <br>
-    :school: Sophomore Learning CS at University of Indonesia<br>
+    :school:  I'm a senior Psychology senior at The University of Texas at Austin.<br>
     :sparkles: My research interests from : Cognitive Neuroscience; Developmental Psychology;  <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/serline/ <br>
-  **Fun fact:** I'm left-handed!
+  🐰 Fun fact: I'm left-handed!
 
   </samp>
   <br>
