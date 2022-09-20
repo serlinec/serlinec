@@ -1,6 +1,5 @@
 # serlinec-serlinec
 
-My name is Serline and I'm a senior Psychology major at The University of Texas at Austin.
 
 **Pronouns:** She/Her
 
@@ -10,8 +9,9 @@ My name is Serline and I'm a senior Psychology major at The University of Texas 
   <img src="https://i.imgur.com/IyjFcq1.png" width="200px">
   <br>
   <samp>
-    Hello, I'm Jon! 👋<br>
-    I'm currently a Software Engineer Intern at Dekoruma<br>
+    Hello, I'm Serline! 👋<br>
+    I'm a senior Psychology senior at The University of Texas at Austin.
+<br>
     :school: Sophomore Learning CS at University of Indonesia<br>
     :sparkles: Favorite Tech: React, Typescript, Django, Node, GraphQL, Postgres<br>
     :email:	jojonichoo@gmail.com <br>
