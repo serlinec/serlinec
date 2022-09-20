@@ -4,7 +4,8 @@
 **Pronouns:** She/Her
 
 
-  <img src="![image](https://user-images.githubusercontent.com/112104031/191302490-7e981bfb-5145-4fe5-baa6-c00e16cecd9e.png)" width="200px">
+![image](https://user-images.githubusercontent.com/112104031/191302542-3792f635-fffd-494a-a580-0c215c038c8b.png)
+
   <br>
   <samp>
     Hello, I'm Serline! 👋<br>
