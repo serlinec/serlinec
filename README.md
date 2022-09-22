@@ -6,23 +6,20 @@
 ![image](https://user-images.githubusercontent.com/112104031/191302542-3792f635-fffd-494a-a580-0c215c038c8b.png)
 
   <br>
-  <samp>
     Hello, I'm Serline! 👋<br>
    
 <br>
-    :school:  I'm a senior Psychology senior at The University of Texas at Austin.
+    🏫  I'm a senior Psychology senior at The University of Texas at Austin.
     
-    :sparkles: My research interests emcompass these fields: Cognitive Neuroscience; Developmental Psychology.
+    ✨ My research interests emcompass these fields: Cognitive Neuroscience; Developmental Psychology.
     
-    :briefcase: LinkedIn: https://www.linkedin.com/in/serline/ 
+    💼 LinkedIn: https://www.linkedin.com/in/serline/ 
     
     🐦 Twitter: @Lin_Coelho
     
     🐰 Fun fact: I'm left-handed!
   
-  </samp>
   <br>
-  
   
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=serlinec&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=fffa6b,f8ff00,00d2ff,3a47d5&theme=graywhite"/>
   
