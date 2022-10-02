@@ -9,7 +9,7 @@
     Hello, I'm Serline! 👋<br>
    
 <br>
-    🏫  I'm a senior Psychology senior at The University of Texas at Austin.
+    🏫  I'm a senior Psychology student at The University of Texas at Austin.
     
     ✨ My research interests emcompass these fields: Cognitive Neuroscience; Developmental Psychology.
     
