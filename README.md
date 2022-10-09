@@ -1,8 +1,7 @@
 ## 🐰Welcome! 🐰
 
-![](https://komarev.com/ghpvc/?username=serlinec)
 <p align="center">
-  
+  ![](https://komarev.com/ghpvc/?username=serlinec)
 ![image](https://user-images.githubusercontent.com/112104031/191302542-3792f635-fffd-494a-a580-0c215c038c8b.png)
 
   <br>
