@@ -11,10 +11,9 @@
 <br>
     🏫  I'm a senior Psychology student at The University of Texas at Austin.
     
+   
    ✨ My research interests encompass the fields of Cognitive Neuroscience & Developmental Psychology.
-    
-   💼 LinkedIn: https://www.linkedin.com/in/serline/ 
-    
+        
    🐦 Twitter: @Lin_Coelho
     
    🐰 Fun fact: I'm left-handed!
