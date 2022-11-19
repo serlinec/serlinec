@@ -13,9 +13,7 @@
     
    
    ✨ My research interests encompass the fields of Cognitive Neuroscience & Developmental Psychology.
-        
-   🐦 Twitter: @Lin_Coelho
-    
+            
    🐰 Fun fact: I'm left-handed!
   
   <br>
