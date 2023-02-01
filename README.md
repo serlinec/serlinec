@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/112104031/191302542-3792f635-fffd-494a-a580-0c215c038c8b.png)
 
   <br>
-    Hello, I'm Serline! 👋<br>
+    Howdy, y'all! 👋<br>
    
 <br>
     🏫  I'm a senior Psychology student at The University of Texas at Austin.
