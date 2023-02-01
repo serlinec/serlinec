@@ -25,12 +25,14 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=1572B6)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 ### Always Learning! But Currently Know/Using
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; <!-- this will soon be renamed to "posit" -->
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
 </p> 
